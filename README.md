@@ -19,7 +19,9 @@
 <br>
 <br>
 
-
+[
 [<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-seudonymous&show_icons=true&locale=en&layout=compact" alt="p-seudonymous" />
 ](https://github-readme-stats.vercel.app/api/top-langs?username=p-seudonymous&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=79ff97
+)
+](https://github-readme-stats.vercel.app/api/top-langs?username=p-seudonymous&show_icons=true&locale=en&layout=compact&bg_color=00000000
 )
