@@ -1,7 +1,7 @@
 ```
-- currently learning hardware security and binary exploitation.
+- currently learning hardware security and cryptography.
 
-- interested in all things low level.
+- interested in all things low level(mostly).
 ```
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
